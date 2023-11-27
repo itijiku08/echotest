@@ -1,0 +1,5 @@
+weights/deeplabv3_resnet50_random.pt filter=lfs diff=lfs merge=lfs -text
+weights/r2plus1d_18_32_2_pretrained[[:space:]]2.pt filter=lfs diff=lfs merge=lfs -text
+/Users/taro-mi/Desktop/echoEF/weights/deeplabv3_resnet50_random.pt filter=lfs diff=lfs merge=lfs -text
+/Users/taro-mi/Desktop/echoEF/weights/r2plus1d_18_32_2_pretrained.pt filter=lfs diff=lfs merge=lfs -text
+weights/r2plus1d_18_32_2_pretrained.pt filter=lfs diff=lfs merge=lfs -text
