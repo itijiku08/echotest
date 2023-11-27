@@ -1,9 +1,0 @@
-[submodule "dynamic-master/dynamic"]
-	path = dynamic-master/dynamic
-	url = https://github.com/itijiku08/echotest.git
-[submodule "dynamic"]
-	path = dynamic
-	url = https://github.com/itijiku08/echotest.git
-[submodule "echoEFAI"]
-	path = echoEFAI
-	url = https://github.com/itijiku08/echoEFtest.git
